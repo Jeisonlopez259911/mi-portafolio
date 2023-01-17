@@ -1,0 +1,26 @@
+.navbar--left {
+    position: fixed;
+    left: 0;
+    top: 200px;
+    z-index: 2000;
+}
+
+.navbar--left .mvl-navbar .navbar-item {
+    display: inline-block;
+    color: white;
+    background-color: black;
+    padding: 10px 15px;
+    text-decoration: none;
+    -webkit-transition: all 500ms;
+    -o-transition: all 500ms;
+    transition: all 500ms;
+}
+
+.navbar--left .mvl-navbar .GitHub { background: #012030 ; }
+.navbar--left .mvl-navbar .Linkedin { background:#034C8C ; }
+.navbar--left .mvl-navbar .HojaDeVida { background:#737373 ; }
+
+.navbar--left .mvl-navbar .navbar-item:hover {
+    padding: 10px 30px;
+    background: black;
+}
