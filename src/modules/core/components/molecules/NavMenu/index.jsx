@@ -13,11 +13,8 @@ export function NavMenu() {
                         <ImHome />
                     </NavLink>
                     <div className="navbar-actions">
-                        <NavLink className="nav-items" to="/contacto">
-                            Contacto
-                        </NavLink>
                         <NavLink className="nav-items" to="/">
-                            page2
+                            Proyectos
                         </NavLink>
                         <NavLink className="nav-items" to="/">
                             page3
@@ -27,6 +24,9 @@ export function NavMenu() {
                         </NavLink>
                         <NavLink className="nav-items" to="/">
                             page5
+                        </NavLink>
+                        <NavLink className="nav-items" to="/contacto">
+                            Contacto
                         </NavLink>
                     </div>
                 </div>
