@@ -1,5 +1,9 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
 .card {
     display: flex;
-    left: 16%;
     max-width: 900px;
 }

@@ -4,6 +4,7 @@ const img = require.context('../../../../../assets/img', true);
 
 export default function CardHomePage(){
     return (
+        <div className="contenedor">
         <div className="card mb-3" >
             <div className="row g-0">
                 <div className="col-md-4">
@@ -25,5 +26,7 @@ export default function CardHomePage(){
             </div>
 
         </div>
+        </div>
+
     );
 };
