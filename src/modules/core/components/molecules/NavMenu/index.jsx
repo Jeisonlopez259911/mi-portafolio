@@ -13,8 +13,8 @@ export function NavMenu() {
                         <ImHome />
                     </NavLink>
                     <div className="navbar-actions">
-                        <NavLink className="nav-items" to="/">
-                            Proyectos
+                        <NavLink className="nav-items" to="/projects">
+                            Projects
                         </NavLink>
                         <NavLink className="nav-items" to="/">
                             page3

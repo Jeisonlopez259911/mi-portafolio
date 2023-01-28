@@ -1,0 +1,13 @@
+.contenedor2 {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    display: flex;
+    max-width: 900px;
+}
+
+.imagenP {
+    height: 100%;
+}
