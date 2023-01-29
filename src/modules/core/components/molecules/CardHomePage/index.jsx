@@ -17,8 +17,8 @@ export default function CardHomePage(){
                 <div className="col-md-8">
                     <div className="card-body">
                         <h5 class="card-title">Mi Portafolio</h5>
-                        <p className="card-text">Mi nombre es Jeison Stiven Lopez Castro tengo 23 años, amo la tecnologia, me gusta la programacion</p>
-                        <a href="/"  class="btn btn-primary" target="_blank_">Saber mas</a>
+                        <p className="card-text">Mi nombre es Jeison Stiven Lopez Castro tengo 23 años, amo la tecnologia, me gusta la programacion, me gustaria explotar lo aprendido y fortalecer mas aprendiendo de las nuevas herramientas para desarrollo web</p>
+                        <a href="/info"  class="btn btn-primary" target="_blank_">Saber mas</a>
                     </div>
 
                 </div>

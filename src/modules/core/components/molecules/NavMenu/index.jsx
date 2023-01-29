@@ -16,15 +16,6 @@ export function NavMenu() {
                         <NavLink className="nav-items" to="/projects">
                             Projects
                         </NavLink>
-                        <NavLink className="nav-items" to="/">
-                            page3
-                        </NavLink>
-                        <NavLink className="nav-items" to="/">
-                            page4
-                        </NavLink>
-                        <NavLink className="nav-items" to="/">
-                            page5
-                        </NavLink>
                         <NavLink className="nav-items" to="/contacto">
                             Contacto
                         </NavLink>
